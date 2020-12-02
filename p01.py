@@ -1,5 +1,3 @@
-from bisect import bisect_left
-
 f = open('input_01.txt', 'r')
 w = [int(i) for i in f.readlines()]
 
